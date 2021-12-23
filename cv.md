@@ -23,3 +23,26 @@
 * Windows OS
 * Figma, Photoshop
 * Editors: VSCode
+## **Code examples**
+``` JavaScript. 
+function pow(x, n) {
+  if (n < 0) {
+    alert("Negative 'n' values are not supported");
+    return;
+  }
+  let result = 1;
+
+  for (let i = 0; i < n; i++) {
+    result *=x;
+  }
+
+  return result;
+}
+```
+## **Education**
+* SHC EI "Mogilev State University named after A.A.Kuleshov". Information technology software
+* [RSschool](https://rs.school/) FE stage0 (in progress) 
+* [learn.JavaScript](https://learn.javascript.ru/) (in progress)
+## **Languages**
+* Russian - native speaker
+* English - A2 (B1 in progress)

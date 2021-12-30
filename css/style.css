@@ -330,12 +330,4 @@ li {
     overflow: auto;
     font-size: 87.5%;
   }
-  .section-code pre::-webkit-scrollbar {
-    background-color: #067d7d;
-  }
-  .section-code pre::-webkit-scrollbar-thumb {
-    width: 5px;
-    background-color: #87ec13;
-    border-radius: 15px;
-  }
 }
